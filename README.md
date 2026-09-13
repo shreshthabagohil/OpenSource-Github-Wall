@@ -646,6 +646,12 @@ Read **CONTRIBUTING.md** before opening a pull request.
 <sub><b>zyrogX</b></sub>
 </a>
 </td>
+<td align='center' width='120px'>
+<a href='https://github.com/shreshthabagohil'>
+<img src='https://avatars.githubusercontent.com/u/242280184?v=4' width='80px' style='border-radius:50%'><br>
+<sub><b>shreshthabagohil</b></sub>
+</a>
+</td>
 </tr>
 </table>
 <!-- CONTRIBUTORS-LIST:END -->
